@@ -38,6 +38,10 @@
         android:title="@string/menu_set_vib_ration" />
 
     <item
+        android:id="@+id/menu_set_notification"
+        android:title="@string/menu_set_notification" />
+
+    <item
         android:id="@+id/menu_send_to_voicemail"
         android:checkable="true"
         android:title="@string/menu_redirect_calls_to_vm" />
